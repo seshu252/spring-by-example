@@ -1,3 +1,3 @@
 spring-by-example
 =================
-example 
+example spring 
